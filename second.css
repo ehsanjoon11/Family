@@ -1,0 +1,52 @@
+.flex-text-div{
+	height: 250px;
+	width: 250px;
+	background-color: red;
+	border-radius:  5px;
+	border-color: black;
+	float: right; 
+	width: 100%;
+	
+}
+.flex-post-div {
+	float: right; 
+	position: sticky;
+	width: 500px;
+	background-color: yellow;
+	height: 250px;
+	width: 250px;
+}
+
+.flex-name-post {
+	background-color: blue;
+	color: white;
+	margin: 0;
+}
+
+.post-div{
+	display: inline-block;
+	height: 250px;
+	width: 250px;
+	margin-top: 100px;
+	background-color: orange;
+	border-radius: 5px;
+    margin-left: 25px;
+}
+
+.post-div:hover {
+	box-shadow:  5px 5px 5px;
+	
+}
+  
+
+
+.flex-post-image{
+	height: 250px;
+	width: 250px;
+	border-radius: 5px;
+}
+
+.flex-text-div-text{
+	margin-left: 10px;
+	color: white;
+}

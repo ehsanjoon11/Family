@@ -1,0 +1,46 @@
+.navbar {
+	display: inline-block;
+	background-color: red;
+	height: 150px;
+	width: 100%;
+	border-radius: 10px;
+}
+
+.image-div{
+	display: inline-block;
+	background-color: blue;
+	width: 100px;
+	height: 100px;
+	padding: 10px;
+	margin-left: 25px;
+	border-radius: 50%;
+	border-color: black;
+	
+}
+
+.image-div:hover {
+	box-shadow: 10px 10px 10px;
+}
+.newposts{
+	background-color: gray;
+	color: white;
+	border-radius: 10px;
+}
+.post-div{
+	display: inline-block;
+	height: 250px;
+	width: 250px;
+	margin: 10px;
+	background-color: orange;
+	border-radius: 5px;
+}
+
+.post-div:hover {
+	box-shadow:  5px 5px 5px;
+}
+
+.profile-image{
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+}
